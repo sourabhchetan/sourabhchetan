@@ -1,7 +1,7 @@
 ## 👋 Hey there! I'm **Sourabh Chetan**  
 🚀 Software Developer | 🎯 Tech Enthusiast | 📝 Content Writer  
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,developer)
+![GitHub Banner](https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0)
 
 ### 🛠 About Me  
 - 🎓 **MCA Student** at IMS Engineering College, Ghaziabad  
