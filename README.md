@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sourabh Chetan</h1>
 <h3 align="center">**"Code is my canvas. Passionate about turning logic into magic!"** 🧠💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhchetan&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhchetan" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sourabhchetan/sourabhchetan/main/gif.gif" alt="Banner" />
+</p>
+
 
 - 🌱 I’m currently learning **Java, Django, React, and Full-Stack Web Development**
 
