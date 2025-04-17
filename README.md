@@ -1,54 +1,50 @@
-## 👋 Hey there! I'm **Sourabh Chetan**  
-🚀 Software Developer | 🎯 Tech Enthusiast | 📝 Content Writer  
+![logo](https://github.com/sourabhchetan/sourabhchetan/blob/main/gif.gif)
+<h1 align="center">Hi 👋, I'm Sourabh Chetan</h1>
+<h3 align="center">**"Code is my canvas. Passionate about turning logic into magic!"** 🧠💻</h3>
 
-![GitHub Banner](https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhchetan&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhchetan" /> </p>
 
-### 🛠 About Me  
-- 🎓 **MCA Student** at IMS Engineering College, Ghaziabad  
-- 💻 Passionate about **Java, Python, SQL, C, and Web Development**  
-- 🔍 Exploring **Data Structures, Algorithms, and Open Source**  
-- ✨ I enjoy solving coding challenges and building projects  
+- 🌱 I’m currently learning **Java, Django, React, and Full-Stack Web Development**
 
----
+- 👨‍💻 I work on various creative projects including **AI-powered applications** and **MVC Chat App**
 
-### 📊 GitHub Stats  
-<div align="center">
+- 📄 Know about my journey on [LinkedIn](https://www.linkedin.com/in/sourabhchetan/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabhchetan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&layout=compact&theme=radical)  
-</div>
+- ⚡ Fun fact: **I write code and content with equal passion.** ✍️
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sourabhchetan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabhchetan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/your_hackerrank_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://leetcode.com/sourabhchetan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
 
-### 🚀 Tech Stack & Tools  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a>
+</p>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sourabhchetan&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔥 Featured Projects  
-- 📌 [**Hostel Management System**](https://github.com/sourabhchetan/Hostel-mangement) - A hostel management system built using Java and JavaScript.  
-- 📌 [**Checklist Web App**](https://github.com/sourabhchetan/checklist-app) - A dynamic to-do list web application.  
-- 📌 [**Portfolio Website**](https://github.com/sourabhchetan/portfolio) - My personal portfolio showcasing my work & skills.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sourabhchetan)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/sourabhchetan)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/sourabhchetan)  
-
----
-
-### ⚡ Fun Facts  
-- 🚀 I love **building tech projects & automating tasks**  
-- 🎮 Enjoy playing games and solving **programming puzzles**  
-- 🌍 Always eager to **learn and explore new technologies**  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sourabhchetan&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sourabhchetan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💬 **Let's Collaborate!** If you have an exciting project idea, feel free to reach out! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
