@@ -1,4 +1,4 @@
-![logo](https://github.com/sourabhchetan/sourabhchetan/blob/main/gif.gif)
+![logo](https://github.com/sourabhchetan/sourabhchetan/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Sourabh Chetan</h1>
 <h3 align="center">**"Code is my canvas. Passionate about turning logic into magic!"** 🧠💻</h3>
 
