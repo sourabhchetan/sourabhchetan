@@ -1,6 +1,8 @@
 ![logo](https://github.com/sourabhchetan/sourabhchetan/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Sourabh Chetan</h1>
 <h3 align="center">**"Code is my canvas. Passionate about turning logic into magic!"** 🧠💻</h3>
+📫 Email: [sourabhchetan8@gmail.com](mailto:sourabhchetan8@gmail.com)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sourabhchetan/sourabhchetan/main/gif.gif" alt="Banner" />
