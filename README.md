@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sourabhchetan/sourabhchetan/main/gif.gif" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sourabh Chetan</h1>
-<h3 align="center">"Code is my canvas. Passionate about turning logic into magic!" 🧠💻</h3>
+<h3 align="center">"Code is my canvas. Passionate about turning logic into magic!" </h3>
 
 - 🌱 I’m currently learning **Java, Django, React, and Full-Stack Web Development**
 
