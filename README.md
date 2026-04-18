@@ -19,18 +19,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sourabhchetan/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://www.hackerrank.com/sourabhchetan8" target="blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
-</a>
-<a href="https://leetcode.com/sourabhchetan" target="blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40" />
-</a>
-</p>
 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sourabhchetan/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+  <a href="https://leetcode.com/sourabhchetan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/sourabhchetan8" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
