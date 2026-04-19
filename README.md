@@ -8,14 +8,13 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 MCA Student at IMS Engineering College, Ghaziabad  
+ 
 - 🌱 Currently learning **Java | Django | React | Full-Stack Development**  
 - 💡 Building **AI-powered apps & real-world projects**  
 - ⚡ Passionate about **Coding + Content Creation**  
 - 🎯 Goal: Become a **Full-Stack Developer with strong problem-solving skills**
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -34,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
   </a>
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
