@@ -140,11 +140,6 @@
 
 
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabhchetan" />
-</p>
 
 
 # 🔥 Contribution Graph
