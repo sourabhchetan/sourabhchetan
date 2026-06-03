@@ -1,128 +1,128 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sourabhchetan/sourabhchetan/main/gif.gif" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/sourabhchetan/sourabhchetan/main/gif.gif" width="100%" />
 
 # Hi 👋, I'm Sourabh Chetan
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
+### Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Django+%7C+Flask+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Things" />
-
-<p align="center">
-  <a href="https://sourabhchetan.github.io/Sourabh-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sourabhchetan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/sourabhchetan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/sourabhchetan8" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-
-  <a href="mailto:sourabhchetan8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Always+Learning" />
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🎓 MCA Graduate passionate about software development  
-- 🌱 Currently learning **Advanced Full-Stack Development**
-- ⚡ Skilled in **React, Django, Flask & Java**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Love building real-world applications
-- 📸 Photographer & Creative Content Creator
-- 🧠 Strong interest in **Problem Solving & DSA**
-- 🎯 Goal: Become a top-tier **Software Engineer**
+* 🎓 MCA Graduate
+* 💻 Full-Stack Developer
+* 🌱 Currently learning AI, Machine Learning & System Design
+* 🔥 Passionate about Problem Solving & DSA
+* 📷 College Event Photographer
+* 🎯 Goal: Build impactful products and become a world-class Software Engineer
 
 ---
 
-# 🚀 Tech Stack
+## 🌐 Portfolio & Profiles
 
-## 💻 Programming Languages
+<p align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+<a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sourabhchetan/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/sourabhchetan">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:sourabhchetan8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Frontend Development
+# 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## ⚙️ Backend Development
+# 🏆 Achievements
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+* 🏅 LeetCode Problem Solver
+* 🏅 GitHub Open Source Contributor
+* 🏅 MCA Graduate
+* 🏅 Full-Stack Development Projects
+* 🏅 AI/ML Learning Journey
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Student Analytics System
-### 🔹 Machine Learning Project
+## EV Yatra
 
-- Predicts student performance using Machine Learning algorithms
-- Data analysis & visualization integrated
-- Built using Python & ML models
+Electric Vehicle Rental Platform
 
----
-
-## ⏱️ Tara's Timebound Tasks
-### 🔹 Full-Stack Django Application
-
-- Smart task & deadline management system
-- Countdown timers & interactive UI
-- Django + JavaScript based application
+* React Frontend
+* User Authentication
+* Booking System
+* Responsive Design
 
 ---
 
+## Tara's Timebound Tasks
 
-# 🌐 Portfolio Website
+Smart Task Management System
 
-<div align="center">
+* Django
+* Countdown Timers
+* Deadline Tracking
+* Interactive Dashboard
 
-## 🚀 Explore My Portfolio
+---
 
-<a href="https://sourabhchetan.github.io/Sourabh-Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+## Student Analytics System
 
-</div>
+Machine Learning Project
+
+* Student Performance Prediction
+* Data Analysis
+* Visualization
+* Python & ML Models
 
 ---
 
@@ -130,9 +130,17 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabhchetan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -142,14 +150,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sourabhchetan&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sourabhchetan&theme=algolia&no-frame=true&row=1&column=7"/>
 
-</div> 
+</div>
 
+---
 
-
-
-# 🔥 Contribution Graph
+# 📊 Activity Graph
 
 <div align="center">
 
@@ -159,64 +166,49 @@
 
 ---
 
-# ⚡ Fun Fact
+# 🎯 Current Focus
 
-<div align="center">
-
-💡 I turn coffee ☕ into code and ideas into real-world projects 🚀
-
-</div>
-
----
-
-# ✨ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+```text
+✔ Data Structures & Algorithms
+✔ Full Stack Development
+✔ Artificial Intelligence
+✔ Machine Learning
+✔ Open Source Contribution
+✔ Software Engineering Interviews
+```
 
 ---
 
+# 💡 Developer Philosophy
 
-
-# 💬 Developer Motto
-
-<div align="center">
-
-> ### “First, solve the problem. Then, write the code.”
-
-</div>
+> First, solve the problem. Then, write the code.
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/sourabhchetan/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://github.com/sourabhchetan">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://github.com/sourabhchetan" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+<a href="https://www.linkedin.com/in/sourabhchetan/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:sourabhchetan8@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### 💙 If you like my work, consider starring my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer"/>
+If you like my work, consider starring my repositories.
 
 </div>
