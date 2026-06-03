@@ -93,16 +93,6 @@
 
 # 🚀 Featured Projects
 
-## EV Yatra
-
-Electric Vehicle Rental Platform
-
-* React Frontend
-* User Authentication
-* Booking System
-* Responsive Design
-
----
 
 ## Tara's Timebound Tasks
 
