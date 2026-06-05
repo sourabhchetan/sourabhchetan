@@ -116,21 +116,15 @@ Machine Learning Project
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabhchetan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabhchetan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -140,7 +134,7 @@ Machine Learning Project
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sourabhchetan&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sourabhchetan&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
