@@ -26,25 +26,26 @@
 ## 🌐 Portfolio & Profiles
 
 <p align="center">
+  <a href="https://sourabhchetan.github.io/Sourabh-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-<a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sourabhchetan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sourabhchetan/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://leetcode.com/sourabhchetan" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/sourabhchetan">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+  <a href="https://www.hackerrank.com/profile/sourabhchetan" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 
-<a href="mailto:sourabhchetan8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="mailto:sourabhchetan8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 # 💻 Tech Stack
