@@ -130,7 +130,7 @@ Machine Learning Project
 
 # 🎯 Current Focus
 
-```text
+```
 ✔ Data Structures & Algorithms
 ✔ Full Stack Development
 ✔ Artificial Intelligence
