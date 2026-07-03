@@ -36,7 +36,6 @@ I'm an **MCA graduate** passionate about building scalable web applications, sol
 - 🎓 MCA Graduate
 - 💻 Full Stack Developer
 - 🐍 Python & Flask Developer
-- ⚛️ React Enthusiast
 - 📚 Learning Machine Learning & System Design
 - 🚀 Building **EvYatra**, a Scooter Rental Platform
 - 💡 Passionate about Backend Development & REST APIs
@@ -83,13 +82,13 @@ I'm an **MCA graduate** passionate about building scalable web applications, sol
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs"/>
+<img src="https://skillicons.dev/icons?i=flask,django"/>
 </p>
 
 ### Database
