@@ -27,7 +27,7 @@
 
 </div>
 
----
+
 
 # 💫 About Me
 
@@ -41,7 +41,7 @@ I'm an **MCA graduate** passionate about building scalable web applications, sol
 - 💡 Passionate about Backend Development & REST APIs
 - 🤝 Open to Software Engineer, Python Developer & Full Stack Developer opportunities
 
----
+
 
 # 🌐 Connect With Me
 
