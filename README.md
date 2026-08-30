@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
+  <a href="https://sourabhchetan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/sourabhchetan/">
@@ -246,7 +246,7 @@ I'm interested in teams where I can:
 
 <p align="center">
 
-<a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
+<a href="https://sourabhchetan-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
