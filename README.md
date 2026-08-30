@@ -1,154 +1,146 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sourabhchetan/sourabhchetan/main/gif.gif" width="100%" />
 
-# 👋 Hi, I'm Sourabh Chetan
+# 👋 Hey, I'm Sourabh Chetan
 
 ### Software Engineer • Full Stack Developer • Python Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;Backend+Developer;Building+EvYatra;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;Backend+Developer;Learning+AI%2FML;Building+EvYatra;Open+to+Work" />
 
-<p align="center">
+<p>
+  <a href="https://github.com/sourabhchetan">
+    <img src="https://komarev.com/ghpvc/?username=sourabhchetan&style=for-the-badge&color=0e75b6" />
+  </a>
+  <a href="https://github.com/sourabhchetan?tab=followers">
+    <img src="https://img.shields.io/github/followers/sourabhchetan?style=for-the-badge&label=Followers" />
+  </a>
+  <a href="https://github.com/sourabhchetan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<a href="https://github.com/sourabhchetan">
-<img src="https://komarev.com/ghpvc/?username=sourabhchetan&style=for-the-badge&color=0e75b6"/>
-</a>
-
-<a href="https://github.com/sourabhchetan?tab=followers">
-<img src="https://img.shields.io/github/followers/sourabhchetan?style=for-the-badge"/>
-</a>
-
-<a href="https://github-profile-trophy.vercel.app/?username=sourabhchetan&theme=algolia&no-frame=true&row=1&column=6">
-<img src="https://img.shields.io/badge/Profile-Trophies-blue?style=for-the-badge"/>
-</a>
-
+<p>
+  <a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sourabhchetan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
+---
 
+## 👨‍💻 About Me
 
-# 💫 About Me
+I'm an **MCA graduate** and aspiring **Software Engineer** focused on building practical web applications, backend systems, and REST APIs.
 
-I'm an **MCA graduate** passionate about building scalable web applications, solving real-world problems, and continuously improving as a software engineer.
+I enjoy turning ideas into working products, solving programming problems, and continuously improving my development and problem-solving skills.
 
-- 🎓 MCA Graduate
-- 💻 Full Stack Developer
-- 🐍 Python & Flask Developer
-- 📚 Learning Machine Learning & System Design
-- 🚀 Building **EvYatra**, a Scooter Rental Platform
-- 💡 Passionate about Backend Development & REST APIs
-- 🤝 Open to Software Engineer, Python Developer & Full Stack Developer opportunities
-
-
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sourabhchetan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sourabhchetan8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/sourabhchetan">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/sourabhchetan">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
+* 🎓 MCA Graduate
+* 💻 Full Stack & Backend Development
+* 🐍 Python & Flask Development
+* 🌐 REST API Development
+* 🤖 Exploring AI & Machine Learning
+* 🧩 Practicing Data Structures & Algorithms
+* 🏗️ Learning System Design
+* 🚀 Building **EvYatra**
+* 🌱 Exploring Open Source
+* 💼 Open to Software Engineering opportunities
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,django"/>
+<img src="https://skillicons.dev/icons?i=python,flask,django" />
 </p>
 
-### Database
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### Tools
+### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛵 EvYatra *(Currently Building)*
+## 🛵 EvYatra
 
 ### Scooter Rental Platform
 
+> 🚧 **Currently under active development**
+
+EvYatra is a web-based scooter rental platform designed to make urban transportation more accessible and convenient.
+
+The platform focuses on scooter discovery, booking management, user authentication, and rental operations through a clean web interface.
+
 **Tech Stack**
 
-`Flask` • `REST APIs` • `HTML` • `CSS` • `MySQL`
+`Python` `Flask` `REST APIs` `HTML` `CSS` `MySQL`
 
-EvYatra is a web-based scooter rental platform focused on making urban transportation simple and convenient. The application enables users to browse available scooters, make bookings, and manage rentals through a clean and intuitive interface.
+### Key Features
 
-### Features
-
-- 🛵 Browse available scooters
-- 📅 Book scooters online
-- 👤 User Authentication
-- 📍 Location-based listings
-- 📖 Booking History
-- ⚙️ Admin Dashboard
-- 🔗 REST API-based architecture
-- 📱 Responsive Design
-
-> 🚧 **Status:** Currently under active development.
+* 🛵 Browse available scooters
+* 📅 Online scooter booking
+* 👤 User authentication
+* 📍 Location-based listings
+* 📖 Booking history
+* ⚙️ Admin dashboard
+* 🔗 REST API architecture
+* 📱 Responsive interface
 
 ---
 
 ## 📊 Student Analytics System
 
-### Machine Learning Project
+### Machine Learning & Data Analytics
+
+A machine learning project that analyzes historical student data and predicts academic performance.
 
 **Tech Stack**
 
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
-A machine learning application that predicts student academic performance using historical datasets and visual analytics.
+### Key Features
 
-### Features
-
-- Student Performance Prediction
-- Data Cleaning & Preprocessing
-- ML Model Training
-- Data Visualization
-- Performance Reports
+* 📈 Student performance prediction
+* 🧹 Data cleaning & preprocessing
+* 🤖 Machine learning model training
+* 📊 Data visualization
+* 📝 Performance analysis
 
 ---
 
@@ -156,90 +148,134 @@ A machine learning application that predicts student academic performance using 
 
 ### Smart Task Management System
 
+A productivity-focused task management application built around deadlines, countdown timers, and task organization.
+
 **Tech Stack**
 
-`Django` • `HTML` • `CSS` • `JavaScript` • `SQLite`
+`Django` `JavaScript` `HTML` `CSS` `SQLite`
 
-A productivity-focused task management application featuring deadline tracking, countdown timers, and an interactive dashboard.
+### Key Features
 
-### Features
-
-- Task Management
-- Countdown Timers
-- Deadline Tracking
-- Dashboard
-- Search & Filter
-- Responsive UI
+* ✅ Task management
+* ⏱️ Countdown timers
+* 📅 Deadline tracking
+* 📊 Interactive dashboard
+* 🔎 Search & filtering
+* 📱 Responsive interface
 
 ---
 
-# 📈 GitHub Analytics
+## 🧠 Problem Solving
+
+I regularly practice programming problems to improve my:
+
+* Data Structures & Algorithms
+* Problem Solving
+* Time & Space Complexity
+* Java & Python Programming
+* Logical Thinking
 
 <p align="center">
-
-
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhchetan&theme=tokyo-night&hide_border=true"/>
-
+  <a href="https://leetcode.com/sourabhchetan">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sourabhchetan">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🎯 Currently Focused On
+## 📈 GitHub Activity
 
-- 🚀 Building EvYatra
-- 🐍 Advanced Python Development
-- ⚡ Backend Engineering
-- 🌐 REST API Development
-- 📚 Machine Learning
-- 🧩 Data Structures & Algorithms
-- 🏗️ System Design
-- 🌍 Open Source Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhchetan&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchetan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-# 💼 Open to Opportunities
-
-I'm actively seeking opportunities as a:
-
-- 💻 Software Engineer
-- 🐍 Python Developer
-- ⚙️ Backend Developer
-- 🌐 Full Stack Developer
-
-I'm eager to contribute to impactful products, collaborate with talented teams, and continue growing as a software engineer.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhchetan&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 💡 Developer Philosophy
+## 🎯 What I'm Working On
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+```text
+🚀 EvYatra
+   └── Scooter Rental Platform
+
+🐍 Python
+   └── Backend Development & REST APIs
+
+🤖 AI / ML
+   └── Machine Learning Fundamentals
+
+🧩 DSA
+   └── Problem Solving & Interview Preparation
+
+🏗️ System Design
+   └── Backend Architecture & Scalability
+
+🌍 Open Source
+   └── Learning & Contributing
+```
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently looking for opportunities in:
+
+**Software Engineering • Python Development • Backend Development • Full Stack Development**
+
+I'm interested in teams where I can:
+
+* Build real-world software
+* Work with modern development practices
+* Solve challenging engineering problems
+* Learn from experienced developers
+* Contribute to meaningful products
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://sourabhchetan.github.io/Sourabh-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sourabhchetan/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sourabhchetan8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/sourabhchetan">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/sourabhchetan">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Build Something Amazing Together!
-
-If you like my work, consider ⭐ starring my repositories or connect with me on LinkedIn.
+### 💡 Build. Learn. Solve. Repeat.
 
 **Thanks for visiting my profile! 🚀**
 
-</div>
+⭐ If you find something interesting, consider starring the repository.
 
+</div>
