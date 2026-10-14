@@ -94,7 +94,6 @@ I enjoy turning ideas into working products, solving programming problems, and c
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
 ## 🛵 EvYatra
@@ -144,24 +143,31 @@ A machine learning project that analyzes historical student data and predicts ac
 
 ---
 
-## ⏳ Tara's Timebound Tasks
+## ✅ TaskFlow-Django
 
 ### Smart Task Management System
 
-A productivity-focused task management application built around deadlines, countdown timers, and task organization.
+A Django-based task management application designed to help users organize tasks, manage deadlines, and stay productive through a clean, responsive interface.
 
 **Tech Stack**
 
-`Django` `JavaScript` `HTML` `CSS` `SQLite`
+`Python` `Django` `HTML` `CSS` `JavaScript` `SQLite`
 
 ### Key Features
 
-* ✅ Task management
-* ⏱️ Countdown timers
-* 📅 Deadline tracking
-* 📊 Interactive dashboard
-* 🔎 Search & filtering
-* 📱 Responsive interface
+* ✅ Create, update, and manage tasks
+* 👤 User authentication and task isolation
+* 📅 Organize tasks and track deadlines
+* 🔎 Search and filter tasks
+* 📊 Task management dashboard
+* 📱 Responsive user interface
+* 🛡️ User-specific task management
+* ⚙️ Django admin panel
+
+**Repository:** [TaskFlow-Django](https://github.com/sourabhchetan/TaskFlow-Django)
+
+---
+
 
 ---
 
